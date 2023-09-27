@@ -19,5 +19,5 @@ public partial class scene_1 : Label
 		global.GotoScene("res://scene_2.tscn");
 	}
 }
-//comment in scene 1
+
 
